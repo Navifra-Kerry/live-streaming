@@ -1,6 +1,6 @@
 # Simle Webcam
 
-Wecam server using c++
+Webcam server using c++
 
 sample site default port 5000 
 ```
