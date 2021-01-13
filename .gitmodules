@@ -1,0 +1,4 @@
+[submodule "poco"]
+	path = poco
+	url = https://github.com/pocoproject/poco.git
+	branch = poco-1.10.2
